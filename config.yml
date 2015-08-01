@@ -1,0 +1,33 @@
+development:
+  characters:
+    - name: wsmind
+      x: 2
+      y: 11
+      bonusAction: CODE
+    - name: Nical
+      x: 4
+      y: 11
+      bonusAction: GRAPHICS
+    - name: ev0
+      x: 6
+      y: 11
+      bonusAction: MUSIC
+    - name: Gruck
+      x: 8
+      y: 11
+      bonusAction: GENERIC
+  channel: &channel '#game'
+  irc:
+    autoRejoin: yes
+    channels:
+      - *channel
+    nick: GameBot
+    port: 6667
+    realName: GameBot
+    server: irc-game
+    userName: GameBot
+  listen: 3704
+  masterPassword: password
+  mockIrc: false
+  stepPeriod: 1500
+  times: 80
