@@ -4,6 +4,8 @@
 
 This game illustrates how we make demos in the group tmp, although I think many demosceners do the same, that is, underestimate the time it takes to make it, and rush it during the party to reach the deadline.
 
+![screenshot](https://raw.githubusercontent.com/Bloutiouf/How-we-make-demos/master/screenshot.png)
+
 ## Gameplay
 
 The goal is to make a demo in two minutes. In order to make it, one has to program code, draw graphics, and compose music. And obviously, to be able to do so, you need some beers.
